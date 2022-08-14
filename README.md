@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VijayaMadhavi
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift(UIKit) and SwiftUI
+- 🌱 I’m know Swift (UIKit), SwiftUI and Objective C
 - 💞️ I’m looking to collaborate on iOS projects
 - 📫 How to reach me vijayamadhavi@hotmail.com
 
